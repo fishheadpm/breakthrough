@@ -1,0 +1,163 @@
+[
+  {
+    "id": "round1",
+    "name": "Breakthrough①",
+    "questions": [
+      {
+        "id": "q001",
+        "english": "Jim is a college student. → Jim is not (/ isn't) a college student.",
+        "japanese": "ジムは大学生だ。→ジムは大学生ではない。"
+      },
+      {
+        "id": "q002",
+        "english": "I like dogs. → I do not (/ don't) like dogs.",
+        "japanese": "僕は犬が好きだ。→僕は犬が好きではない。"
+      },
+      {
+        "id": "q003",
+        "english": "She gets up at seven. → She does not (/ doesn't) get up at seven.",
+        "japanese": "彼女は7時に起きる。→彼女は7時に起きない。"
+      },
+      {
+        "id": "q004",
+        "english": "My brother can ski well. → My brother cannot (/ can't) ski well.",
+        "japanese": "私の弟は上手にスキーができる。→私の弟はスキーが上手にできない。"
+      },
+      {
+        "id": "q005",
+        "english": "Is she a popular singer in Japan? — Yes, she is. / No, she isn't.",
+        "japanese": "彼女は日本では人気のある歌手ですか。－はい、そうです。/いいえ，違います。"
+      },
+      {
+        "id": "q006",
+        "english": "Do you like math? - Yes, I do. / No, I don't.",
+        "japanese": "君は数学が好きですか。－はい、好きです。/いいえ、好きではありません。"
+      },
+      {
+        "id": "q007",
+        "english": "Can Jane ride a bicycle? — Yes, she can. / No, she can't.",
+        "japanese": "ジェーンは自転車に乗ることができますか。－はい。できます。/いいえ、できません。"
+      },
+      {
+        "id": "q008",
+        "english": "Isn't Mr. Brown a math teacher? — Yes, he is./ No, he isn't.",
+        "japanese": "ブラウン先生は数学の先生ではないのですか。－いいえ、数学の先生です。/はい。数学の先生ではありません。"
+      },
+      {
+        "id": "q009",
+        "english": "Do you like dogs or cats? — I like dogs.",
+        "japanese": "あなたは犬が好きですか、それとも猫ですか。－僕は犬が好きです。"
+      },
+      {
+        "id": "q010",
+        "english": "It's windy today, isn't it? -Yes, it is./ No, it isn't.",
+        "japanese": "今日は風が強いですね。/強いですか。－はい，強いです。/いいえ、強くありません。"
+      },
+      {
+        "id": "q011",
+        "english": "Your father doesn't smoke, does he? — Yes, he does. / No, he doesn't.",
+        "japanese": "君のお父さんはタバコを吸わないですよね。/吸わないのですか。－いいえ、吸います。/はい、吸いません。"
+      },
+      {
+        "id": "q012",
+        "english": "Who locked the office last night? — John did.",
+        "japanese": "昨夜誰が職場の鍵をかけましたか。－ジョンです。"
+      },
+      {
+        "id": "q013",
+        "english": "When does your school begin? -It begins at 8:30.",
+        "japanese": "君の学校は何時に始まりますか。－8時半です。"
+      },
+      {
+        "id": "q014",
+        "english": "Whose is that hat? — It is mine.",
+        "japanese": "あの帽子は誰のものですか。－私のです。"
+      },
+      {
+        "id": "q015",
+        "english": "Sign your name here. - All right.",
+        "japanese": "ここに署名してください。－わかりました。"
+      },
+      {
+        "id": "q016",
+        "english": "Bill, don't be late again. - No, I won't.",
+        "japanese": "ビル、二度と遅刻をしてはいけませんよ。－二度としません。"
+      },
+      {
+        "id": "q017",
+        "english": "Let's go fishing tomorrow. - Yes, let's. / No, let's not.",
+        "japanese": "明日釣りに行きましょう。－そうしましょう。/よしましょう。"
+      },
+      {
+        "id": "q018",
+        "english": "How cold it is today!",
+        "japanese": "今日はなんと寒いのだろう。"
+      },
+      {
+        "id": "q019",
+        "english": "What a cold day it is today!",
+        "japanese": "今日はなんと寒い日なのだろう。"
+      },
+      {
+        "id": "q020",
+        "english": "I drive to work every day.",
+        "japanese": "僕は毎日車で通勤している。"
+      },
+      {
+        "id": "q021",
+        "english": "The girl on the stage is singing happily.",
+        "japanese": "舞台の上の少女は楽しそうに歌っている。"
+      },
+      {
+        "id": "q022",
+        "english": "Our school starts at 8:30.",
+        "japanese": "私たちの学校は8時半に始まる。"
+      },
+      {
+        "id": "q023",
+        "english": "He has started a new business.",
+        "japanese": "彼は新しい事業を始めた。"
+      },
+      {
+        "id": "q024",
+        "english": "I slept well last night.",
+        "japanese": "昨夜はよく眠りました。"
+      },
+      {
+        "id": "q025",
+        "english": "There is a table by the window.",
+        "japanese": "窓のそばにテーブルがあります。"
+      },
+      {
+        "id": "q026",
+        "english": "Ken won the speech contest. His parents were happy at the news.",
+        "japanese": "ケンが弁論大会で優勝した。彼の両親はその知らせに喜んでいた。"
+      },
+      {
+        "id": "q027",
+        "english": "I visited my aunt in Okinawa this summer.",
+        "japanese": "私はこの夏に沖縄の叔母さんを訪ねた。"
+      },
+      {
+        "id": "q028",
+        "english": "It was raining hard. My mother brought me an umbrella.",
+        "japanese": "雨が激しく降っていた。お母さんが僕に傘を持ってきてくれた。"
+      },
+      {
+        "id": "q029",
+        "english": "I was hungry. My mother made me some sandwiches.",
+        "japanese": "私は空腹だった。お母さんが私にサンドイッチを作ってくれた。"
+      },
+      {
+        "id": "q030",
+        "english": "They named their baby Ronald.",
+        "japanese": "彼らは赤ちゃんにロナルドと名前をつけた。"
+      },
+      {
+        "id": "q031",
+        "english": "My hobby makes me happy.",
+        "japanese": "趣味は私を幸せにする→趣味があるから私は幸せだ。"
+      }
+    ]
+  }
+]
