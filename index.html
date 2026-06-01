@@ -3,38 +3,49 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Breakthrough①</title>
-<link rel="stylesheet" href="style.css?v=1">
+<title>Breakthrough</title>
+<link rel="stylesheet" href="style.css?v=2">
 </head>
 <body>
 
 <div class="container">
 
-<h1>Breakthrough①</h1>
+<h1>Breakthrough</h1>
 
 <div id="menuScreen">
-<button onclick="start()">最初から</button>
-<button onclick="continueGame()">続きから</button>
-<button onclick="showHistory()">履歴</button>
-<button onclick="resetHistory()">履歴リセット</button>
+  <section class="card">
+    <h2>回を選択</h2>
+    <div id="roundButtons"></div>
+    <p id="selectedRoundLabel" class="selected-round"></p>
+  </section>
+
+  <section class="card">
+    <button onclick="start()">最初から</button>
+    <button onclick="continueGame()">続きから</button>
+    <button onclick="showHistory()">履歴</button>
+    <button onclick="resetHistory()">履歴リセット</button>
+  </section>
 </div>
 
 <div id="quizScreen" class="hidden">
-<p id="progress"></p>
-<h2 id="question"></h2>
+  <p id="roundTitle"></p>
+  <p id="progress"></p>
+  <h2 id="question"></h2>
 
-<button onclick="showAnswer()">答え表示</button>
+  <button onclick="showAnswer()">答え表示</button>
 
-<div id="answerArea" class="hidden">
-<p id="answer"></p>
+  <div id="answerArea" class="hidden">
+    <p id="answer"></p>
 
-<button onclick="correct()">正解</button>
-<button onclick="wrong()">間違い</button>
+    <button onclick="correct()">正解</button>
+    <button onclick="wrong()">間違い</button>
+  </div>
+
+  <button class="sub-button" onclick="backToMenu()">メニューに戻る</button>
 </div>
-</div>
 
 </div>
 
-<script src="app.js?v=1"></script>
+<script src="app.js?v=2"></script>
 </body>
 </html>

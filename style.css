@@ -1,10 +1,35 @@
 body {
   font-family: sans-serif;
   padding: 10px;
+  background: #f7f7f7;
+  color: #222;
+}
+
+.container {
+  max-width: 720px;
+  margin: 0 auto;
 }
 
 .hidden {
   display: none;
+}
+
+.card {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 14px;
+  margin: 12px 0;
+}
+
+h1 {
+  font-size: 28px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 20px;
+  margin: 0 0 10px;
 }
 
 button {
@@ -12,14 +37,48 @@ button {
   margin: 5px 0;
   padding: 12px;
   font-size: 16px;
+  border: 1px solid #bbb;
+  border-radius: 8px;
+  background: #fff;
+}
+
+button:active {
+  transform: scale(0.99);
+}
+
+.round-button.selected {
+  background: #222;
+  color: #fff;
+  border-color: #222;
+}
+
+.selected-round {
+  margin: 10px 0 0;
+  font-weight: bold;
+}
+
+.sub-button {
+  margin-top: 20px;
+  background: #eee;
+}
+
+#roundTitle {
+  font-weight: bold;
 }
 
 #question {
   white-space: pre-wrap;
+  font-size: 20px;
+  line-height: 1.6;
 }
 
 #answer {
   white-space: pre-wrap;
   font-size: 18px;
+  line-height: 1.6;
   margin-top: 20px;
+  padding: 12px;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
 }
