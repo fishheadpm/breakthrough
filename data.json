@@ -159,5 +159,377 @@
         "japanese": "趣味は私を幸せにする→趣味があるから私は幸せだ。"
       }
     ]
+  },
+  {
+    "id": "round2",
+    "name": "Breakthrough②",
+    "questions": [
+      {
+        "id": "q001",
+        "english": "I usually eat sandwiches for lunch.",
+        "japanese": "私はたいていお昼にサンドイッチを食べます。"
+      },
+      {
+        "id": "q002",
+        "english": "The earth is round. It is not flat.",
+        "japanese": "地球は丸い。平らではありません。"
+      },
+      {
+        "id": "q003",
+        "english": "What is Ted doing now? －He is watching TV in his room.",
+        "japanese": "テッドは今何をしていますか。―彼は自分の部屋でテレビを見ています。"
+      },
+      {
+        "id": "q004",
+        "english": "Jane eats breakfast at seven every day.",
+        "japanese": "ジェーンは毎日7時に朝食を食べる。"
+      },
+      {
+        "id": "q005",
+        "english": "I know James very well.",
+        "japanese": "僕はジェイムズをよく知っている。"
+      },
+      {
+        "id": "q006",
+        "english": "Is Mary coming？ ― Yes, she is coming at three o’clock.",
+        "japanese": "メアリーは来ますか。 ―ええ、彼女は3時に来ます。"
+      },
+      {
+        "id": "q007",
+        "english": "I had a cold and stayed in bed last week.",
+        "japanese": "私は先週風邪をひいて寝込んでいた。"
+      },
+      {
+        "id": "q008",
+        "english": "When I called you, what were you doing?―I was doing my homework.",
+        "japanese": "僕が電話した時何をしていたの？ ―宿題をしていました。"
+      },
+      {
+        "id": "q009",
+        "english": "The newspaper said that the President was coming to Japan soon.",
+        "japanese": "新聞には、近々大統領が来日すると書いてあった。"
+      },
+      {
+        "id": "q010",
+        "english": "I will stop by his apartment on my way to work.",
+        "japanese": "仕事に行く途中で彼のアパートに寄ろう。"
+      },
+      {
+        "id": "q011",
+        "english": "Masaki will pass the entrance exam this year.",
+        "japanese": "今年マサキは入学試験に通るだろう。"
+      },
+      {
+        "id": "q012",
+        "english": "I am going to visit my uncle in Canada this summer.",
+        "japanese": "この夏に私はカナダの叔父さんを訪ねる予定です。"
+      },
+      {
+        "id": "q013",
+        "english": "It is going to be chilly tonight.",
+        "japanese": "今夜は冷えるだろう。"
+      },
+      {
+        "id": "q014",
+        "english": "It will probably be raining when you come home.",
+        "japanese": "君が家に戻ってくる時にはおそらく雨が降っているだろう。"
+      },
+      {
+        "id": "q015",
+        "english": "We will be taking off in five minutes.Please fasten your seat belt.",
+        "japanese": "5分後に離陸いたします。シートベルトをお締めください。"
+      },
+      {
+        "id": "q016",
+        "english": "Shall I erase the blackboard? – Yes, please.No, please don’t.[No, thank you.]",
+        "japanese": "黒板を消しましょうか。―はい、お願いします。/ いいえ、結構です。"
+      },
+      {
+        "id": "q017",
+        "english": "Shall we go for a drive? – Yes, let’s. / No, let’s not.",
+        "japanese": "ドライブに行きませんか。―ええ、そうしましょう。/ やめておこう。"
+      },
+      {
+        "id": "q018",
+        "english": "Will you pass me the salt, please? – Sure, here you are.",
+        "japanese": "塩を取ってくれませんか。 ―はい、どうぞ。"
+      },
+      {
+        "id": "q019",
+        "english": "Won’t you go shopping with me? – With pleasure.",
+        "japanese": "一緒に買い物に行きませんか。 ―喜んで。"
+      },
+      {
+        "id": "q020",
+        "english": "If it rains tomorrow, we will have classes as usual.",
+        "japanese": "明日雨が降れば、いつもの通り授業があります。"
+      },
+      {
+        "id": "q021",
+        "english": "I haven’t seen Mary recently. What has become of her?",
+        "japanese": "私は最近メアリーを見かけない。彼女はどうしたの。"
+      },
+      {
+        "id": "q022",
+        "english": "Has Cathy ever been to Italy before?",
+        "japanese": "キャシーはイタリアに行ったことがありますか。"
+      },
+      {
+        "id": "q023",
+        "english": "Ron has lived here since he was a child.",
+        "japanese": "ロンは子どもの頃からここに住んでいます。"
+      },
+      {
+        "id": "q024",
+        "english": "Have you eaten breakfast yet? — Yes, I have just finished it.",
+        "japanese": "もう朝ごはんを食べましたか。－ええ、今ちょうど終えたところです。"
+      },
+      {
+        "id": "q025",
+        "english": "Have you ever been to San Francisco? — Yes, I've been there once.",
+        "japanese": "サンフランシスコに行ったことがありますか。－ええ、一度行きました。"
+      },
+      {
+        "id": "q026",
+        "english": "How long have you been here? — I've been here for almost two years.",
+        "japanese": "どれくらいここにいるのですか。－ほぼ２年ここにいます。"
+      },
+      {
+        "id": "q027",
+        "english": "It has been raining since last week. I hope it will let up soon.",
+        "japanese": "先週からずっと雨が降っている。すぐにやんでほしい。"
+      },
+      {
+        "id": "q028",
+        "english": "I had already gone to bed when you called me.",
+        "japanese": "君が電話をかけてきた時には僕はすでに寝てしまっていたんだ。"
+      },
+      {
+        "id": "q029",
+        "english": "I had been to Paris three times before I went there last year.",
+        "japanese": "私は昨年に行った時にはもうすでに３回パリに行ったことがあった。"
+      },
+      {
+        "id": "q030",
+        "english": "Tom had been in the hospital for a week when I visited him.",
+        "japanese": "見舞いに行った時、トムが入院して１週間経っていた。"
+      },
+      {
+        "id": "q031",
+        "english": "I had been studying English for only one year when I went to the United States.",
+        "japanese": "私がアメリカに行った時、英語を勉強してたった１年しか経っていなかった。"
+      },
+      {
+        "id": "q032",
+        "english": "I lost my watch yesterday. My father had given it to me just that morning for my birthday.",
+        "japanese": "私は昨日腕時計をなくした。父がその日の朝、私の誕生日祝いにくれたものだった。"
+      },
+      {
+        "id": "q033",
+        "english": "I will have finished this work by tomorrow.",
+        "japanese": "私は明日までにはこの仕事を終えているでしょう。"
+      },
+      {
+        "id": "q034",
+        "english": "If I go to Thailand this summer, I will have been there seven times.",
+        "japanese": "今年の夏タイに行けば、私はそこに７回行ったことになります。"
+      },
+      {
+        "id": "q035",
+        "english": "Our parents will have been married for twenty years next month.",
+        "japanese": "私たちの両親は、来月には結婚して20年になります。"
+      },
+      {
+        "id": "q036",
+        "english": "Here we are at the station.",
+        "japanese": "さあ駅に着いた。"
+      },
+      {
+        "id": "q037",
+        "english": "Your train leaves here at three o'clock.",
+        "japanese": "君の乗る電車は３時にここを出ます。"
+      },
+      {
+        "id": "q038",
+        "english": "Mike is studying hard these days.",
+        "japanese": "マイクは最近勉強に精を出している。"
+      },
+      {
+        "id": "q039",
+        "english": "He is always making silly mistakes. He should be more careful.",
+        "japanese": "彼はいつもばかげた間違いばかりしている。もっと注意するべきだ。"
+      },
+      {
+        "id": "q040",
+        "english": "The traffic signal was changing to red.",
+        "japanese": "信号は赤に変わりかけていた。"
+      },
+      {
+        "id": "q041",
+        "english": "The train was about to leave when I got to the station.",
+        "japanese": "私が駅に着いた時、電車はまさに出るところだった。"
+      },
+      {
+        "id": "q042",
+        "english": "Please return the book when you have read it.",
+        "japanese": "読み終わったら、その本を返してください。"
+      },
+      {
+        "id": "q043",
+        "english": "I had intended to go to the party.",
+        "japanese": "パーティーに出席するつもりだったんですが。"
+      }
+    ]
+  },
+  {
+    "id": "round3",
+    "name": "Breakthrough③",
+    "questions": [
+      {
+        "id": "q001",
+        "english": "eat～for lunch",
+        "japanese": "昼に～を食べる"
+      },
+      {
+        "id": "q002",
+        "english": "round",
+        "japanese": "丸い"
+      },
+      {
+        "id": "q003",
+        "english": "flat",
+        "japanese": "平ら"
+      },
+      {
+        "id": "q004",
+        "english": "Haste makes waste.",
+        "japanese": "急がば回れ"
+      },
+      {
+        "id": "q005",
+        "english": "Time flies.",
+        "japanese": "光陰矢のごとし"
+      },
+      {
+        "id": "q006",
+        "english": "twice a week",
+        "japanese": "週に2回"
+      },
+      {
+        "id": "q007",
+        "english": "sleep on it",
+        "japanese": "一晩寝てよく考える"
+      },
+      {
+        "id": "q008",
+        "english": "sleep it off",
+        "japanese": "眠って頭痛、酔いなどを取り除く"
+      },
+      {
+        "id": "q009",
+        "english": "resemble",
+        "japanese": "似ている"
+      },
+      {
+        "id": "q010",
+        "english": "belong to ・・・",
+        "japanese": "・・・に属している"
+      },
+      {
+        "id": "q011",
+        "english": "notice",
+        "japanese": "気づく"
+      },
+      {
+        "id": "q012",
+        "english": "fear",
+        "japanese": "恐れている"
+      },
+      {
+        "id": "q013",
+        "english": "respect",
+        "japanese": "尊敬している"
+      },
+      {
+        "id": "q014",
+        "english": "hate",
+        "japanese": "憎んでいる"
+      },
+      {
+        "id": "q015",
+        "english": "believe",
+        "japanese": "信じている"
+      },
+      {
+        "id": "q016",
+        "english": "see",
+        "japanese": "会う、付き合う"
+      },
+      {
+        "id": "q017",
+        "english": "You are being very quiet today.",
+        "japanese": "今日はいやに静かだね。"
+      },
+      {
+        "id": "q018",
+        "english": "I believe he will win.",
+        "japanese": "彼が勝つと信じている"
+      },
+      {
+        "id": "q019",
+        "english": "get married",
+        "japanese": "結婚する"
+      },
+      {
+        "id": "q020",
+        "english": "have a cold",
+        "japanese": "風邪をひく"
+      },
+      {
+        "id": "q021",
+        "english": "stay in bed",
+        "japanese": "寝込む"
+      },
+      {
+        "id": "q022",
+        "english": "break out",
+        "japanese": "勃発する"
+      },
+      {
+        "id": "q023",
+        "english": "go to work",
+        "japanese": "仕事に行く"
+      },
+      {
+        "id": "q024",
+        "english": "for a change",
+        "japanese": "いつもと違って"
+      },
+      {
+        "id": "q025",
+        "english": "World War Ⅱ",
+        "japanese": "第二次世界大戦"
+      },
+      {
+        "id": "q026",
+        "english": "around midnight",
+        "japanese": "真夜中ごろ"
+      },
+      {
+        "id": "q027",
+        "english": "the President",
+        "japanese": "大統領"
+      },
+      {
+        "id": "q028",
+        "english": "stop by",
+        "japanese": "立ち寄る"
+      },
+      {
+        "id": "q029",
+        "english": "on my way to work",
+        "japanese": "仕事に行く途中で"
+      }
+    ]
   }
 ]
