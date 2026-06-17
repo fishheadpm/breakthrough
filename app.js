@@ -6,7 +6,7 @@ let history = {};
 
 const STORAGE_PREFIX = 'breakthrough';
 
-fetch('data.json?v=2')
+fetch('data.json?v=' + Date.now())
   .then(res => res.json())
   .then(json => {
     data = json;
@@ -26,7 +26,7 @@ function renderRoundButtons() {
   data.forEach(round => {
     const button = document.createElement('button');
     button.textContent = round.name || round.id;
-    button.onclick = () => selectRound(round.id);
+    button.onclick = () => selectRoundAndStart(round.id);
     button.className = currentRound && currentRound.id === round.id ? 'round-button selected' : 'round-button';
     area.appendChild(button);
   });
@@ -45,6 +45,11 @@ function selectRound(roundId) {
   history = loadHistory();
   renderRoundButtons();
   updateSelectedRoundLabel();
+}
+
+function selectRoundAndStart(roundId) {
+  selectRound(roundId);
+  start();
 }
 
 function updateSelectedRoundLabel() {
@@ -160,6 +165,16 @@ function load() {
   if (p && Array.isArray(p.queue) && p.queue.length > 0) {
     queue = p.queue;
     index = p.index || 0;
+
+    const validIds = new Set(currentRound.questions.map(q => q.id));
+    const hasInvalidId = queue.some(id => !validIds.has(id));
+
+    if (hasInvalidId) {
+      localStorage.removeItem(getProgressKey());
+      queue = [];
+      index = 0;
+      start();
+    }
   } else {
     start();
   }
